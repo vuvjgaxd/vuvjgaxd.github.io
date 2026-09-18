@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "5854dd39e0b6a4d5ba9f6b75",
+  "owner": "vuvjgaxd",
+  "repo": "vuvjgaxd.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "d8173aba69e08e7ed9a8b274",
+      "a": "MIMEMI",
+      "b": "官方发布页",
+      "entity": "MIMEMI",
+      "brand": "MIMEMI",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "abcfb13c85c0febc07378242cec3e97c5435b7e68f01965f88bd6f4918a2cc7d",
+      "content": {
+        "primary_entity": "MIMEMI",
+        "keyword1": "MIMEMI",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "先确认常用设备，再按平台选客户端。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比流量、设备数与周期，选适合的版本。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_DESCRIPTION": "，MIMEMI 提供每月 100GB 至 1000GB 流量、3 至 20 台设备同时在线的方案，支持流媒体解锁和 IPLC 专线加速。基础版适合个人日常，旗舰版增加游戏与优先支持，团队版满足多人协作与企业路由需求。",
+          "AI_FAQ_ANSWER_1": "按设备数量、每月流量和周期选。单人日常用基础版；游戏或 5 台设备用旗舰版；多人团队用团队版。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。可先按常用设备数选套餐，后续升级灵活。",
+          "AI_FAQ_ANSWER_3": "选择套餐后按对应客户端文档导入订阅链接即可。不同系统操作略有不同，请以客户端说明为准。",
+          "AI_FAQ_ANSWER_4": "年付通常比月付省两个月费用。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化和 7x24 优先工单支持，团队版另含 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "怎么根据需求选套餐版本？",
+          "AI_FAQ_QUESTION_2": "每个版本支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了什么？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量到订阅周期，三个维度帮助选择。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量匹配。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，看常用设备数。",
+          "AI_FEATURE_TEXT_3": "年付价格低于月付累计，长期使用可优先考虑年付。",
+          "AI_FEATURE_TITLE_1": "流量匹配",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选服务、查要求、配订阅，三步走。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "MIMEMI 提供基础版、旗舰版和团队版三档方案，覆盖 100GB 至 1000GB 月流量、3 至 20 台设备。旗舰版含 IPLC 专线游戏加速，团队版支持企业定制路由。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付更省。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数、流量和预算确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制、流量额度和支持线路。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按对应客户端文档完成导入配置。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "查要求",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "MIMEMI 套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "92c27f733367974aac629202ccc55253390a28e9061114b985abcfbb913946dc",
+    "sitemap.xml": "cd8fdbe240f4930c10158ff99d49be49466ca8a96e26747ab0c8ec82580f2f81",
+    "robots.txt": "fdfafd6248fb9eb43e7d8151c7af16218e9735d32ce7f463b2a7290c0e3bd6ee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "8b0453b926d2f7f3293460a638baed99fd34ecfebf23b870060445fd077fba92"
+}
